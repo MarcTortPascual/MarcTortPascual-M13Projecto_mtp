@@ -20,6 +20,7 @@
         android:id="@+id/button"
         android:layout_width="119dp"
         android:layout_height="59dp"
+        android:backgroundTint="#ff0000"
         android:text="feauture1"
         tools:layout_editor_absoluteX="158dp"
         tools:layout_editor_absoluteY="153dp" />
