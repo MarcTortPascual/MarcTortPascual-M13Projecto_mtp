@@ -21,10 +21,9 @@
         android:layout_width="159dp"
         android:layout_height="90dp"
         android:backgroundTint="#ff0000"
-        android:text="feauture1"
-        tools:layout_editor_absoluteX="-5dp"
-        tools:layout_editor_absoluteY="-2dp" />
-
+        android:text="hotfix"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="78dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
