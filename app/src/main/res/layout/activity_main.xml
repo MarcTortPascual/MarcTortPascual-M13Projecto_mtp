@@ -18,12 +18,12 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="159dp"
-        android:layout_height="90dp"
+        android:layout_width="296dp"
+        android:layout_height="136dp"
         android:backgroundTint="#ff0000"
         android:text="feauture1"
-        tools:layout_editor_absoluteX="-5dp"
-        tools:layout_editor_absoluteY="-2dp" />
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="81dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
